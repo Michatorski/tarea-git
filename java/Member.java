@@ -27,6 +27,7 @@ public class Member {
         System.out.println(name + " " + surnames + ". NIF: " + nif + ". Número socio: " + numMember + ". CP:" + cp);
     }
 
+    
     public String getNif() {
         return nif;
     }
